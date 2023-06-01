@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify7787211879ad4-staging-20630-authRole",
+      "UnauthRoleArn": "arn:aws:iam::178450627339:role/amplify-amplify7787211879ad4-staging-20630-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::178450627339:role/amplify-amplify7787211879ad4-staging-20630-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplify7787211879ad4-staging-20630-deployment",
+      "UnauthRoleName": "amplify-amplify7787211879ad4-staging-20630-unauthRole",
+      "StackName": "amplify-amplify7787211879ad4-staging-20630",
+      "StackId": "arn:aws:cloudformation:us-east-1:178450627339:stack/amplify-amplify7787211879ad4-staging-20630/ece729b0-0020-11ee-ba8b-0e9a5100ab1b",
+      "AmplifyAppId": "d2grxu84gjcn1c"
+    },
+    "categories": {
+      "auth": {
+        "martinsondrawebsite95d318a3": {}
+      }
+    }
+  }
+}
