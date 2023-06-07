@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3ba57d223",
+  "policyUUID": "ba57d223",
+  "bucketName": "martinsondrawebsitee543a03530144042b5d42842cdf0",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
